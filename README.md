@@ -1,0 +1,1 @@
+In the Spring semester of 2021, as part of a four-person team in the GAME 100 course at DigiPen Institute of Technology, I served as the Systems Programmer for SCUBA-GAM-100. This scuba-themed endless runner, crafted in C using the Alpha Engine framework, challenged players to adeptly pilot a submarine through treacherous waters, evading sharks and jellyfish.
